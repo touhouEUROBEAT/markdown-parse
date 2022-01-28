@@ -1,1 +1,1 @@
-[a link!](https://something.com) blah
+[a link!](https://something.com) blah!
